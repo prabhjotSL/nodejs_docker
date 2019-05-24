@@ -1,0 +1,1 @@
+value_outputs["sum"] = value_inputs["a"] + value_inputs["b"];
